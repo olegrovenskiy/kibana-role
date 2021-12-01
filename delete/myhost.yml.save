@@ -1,0 +1,5 @@
+---
+all:
+  hosts:
+    el-instance:
+      ansible_host: 51.250.6.22:
