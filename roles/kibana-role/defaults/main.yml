@@ -1,0 +1,4 @@
+---
+elk_stack_version: "7.15.2"
+
+# defaults file for kibana-role
